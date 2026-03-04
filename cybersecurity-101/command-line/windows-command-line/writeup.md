@@ -8,7 +8,7 @@
 ---
 
 ## 📌 What This Room Is About
-*This room covers the essentials of using the Windows Command Line*
+*This room covers the essentials of using the MS Windows Command Prompt, cmd.exe*
 
 ---
 
