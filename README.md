@@ -12,7 +12,7 @@ mistakes, and takeaways — not just the answers.
 
 | Path | Rooms Completed | Status |
 |------|----------------|--------|
-| Pre-Security | 0 / 5 | 🔄 In Progress |
+| Cyber Security 101 | 3 / 14 | 🔄 In Progress |
 | SOC Level 1 | 0 / 26 | ⏳ Not Started |
 | Jr Penetration Tester | 0 / 28 | ⏳ Not Started |
 
@@ -20,7 +20,7 @@ mistakes, and takeaways — not just the answers.
 
 ## 📁 Writeups Index
 
-### 🟢 Pre-Security Path
+### 🟢 Cyber Security 101 Path
 *Writeups will appear here as I complete each room.*
 
 ---
