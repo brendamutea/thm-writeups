@@ -2,7 +2,7 @@
 
 A documented learning journal of my TryHackMe journey as I transition 
 from reinsurance into cybersecurity. Each writeup reflects my own thinking, 
-mistakes, and takeaways — not just the answers.
+mistakes, and takeaways.
 
 > "The obstacle is the path." — every cybersecurity beginner, ever.
 
